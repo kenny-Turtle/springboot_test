@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project.iml" filepath="$PROJECT_DIR$/Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot_Demo1/SpringBoot_Demo1.iml" filepath="$PROJECT_DIR$/SpringBoot_Demo1/SpringBoot_Demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot_Demo2/SpringBoot_Demo2.iml" filepath="$PROJECT_DIR$/SpringBoot_Demo2/SpringBoot_Demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot_Demo3/SpringBoot_Demo3.iml" filepath="$PROJECT_DIR$/SpringBoot_Demo3/SpringBoot_Demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/child01/child01.iml" filepath="$PROJECT_DIR$/child01/child01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/child02/child02.iml" filepath="$PROJECT_DIR$/child02/child02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/child03/child03.iml" filepath="$PROJECT_DIR$/parent/child03/child03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet/servlet.iml" filepath="$PROJECT_DIR$/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-01-helloworld/spring-boot-01-helloworld.iml" filepath="$PROJECT_DIR$/spring-boot-01-helloworld/spring-boot-01-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-01-helloworld-quick/spring-boot-01-helloworld-quick.iml" filepath="$PROJECT_DIR$/spring-boot-01-helloworld-quick/spring-boot-01-helloworld-quick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-web-crud/spring-boot-web-crud.iml" filepath="$PROJECT_DIR$/spring-boot-web-crud/spring-boot-web-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc/spring-mvc.iml" filepath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc/spring-redis/spring-redis.iml" filepath="$PROJECT_DIR$/spring-mvc/spring-redis/spring-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-shiro/spring-shiro.iml" filepath="$PROJECT_DIR$/spring-shiro/spring-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ums-parent/ums-action/ums-action.iml" filepath="$PROJECT_DIR$/ums-parent/ums-action/ums-action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ums-parent/ums-dao/ums-dao.iml" filepath="$PROJECT_DIR$/ums-parent/ums-dao/ums-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ums-parent/ums-parent.iml" filepath="$PROJECT_DIR$/ums-parent/ums-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ums-parent/ums-service/ums-service.iml" filepath="$PROJECT_DIR$/ums-parent/ums-service/ums-service.iml" />
+    </modules>
+  </component>
+</project>

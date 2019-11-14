@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-shiro" />
+        <module name="spring-redis" />
+        <module name="spring-boot-01-helloworld" />
+        <module name="child03" />
+        <module name="child02" />
+        <module name="child01" />
+        <module name="spring-boot-web-crud" />
+        <module name="ums-service" />
+        <module name="spring-boot-01-helloworld-quick" />
+        <module name="SpringBoot_Demo3" />
+        <module name="SpringBoot_Demo2" />
+        <module name="SpringBoot_Demo1" />
+        <module name="ums-action" />
+        <module name="servlet" />
+        <module name="ums-dao" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="child01" target="1.5" />
+      <module name="child02" target="1.5" />
+      <module name="child03" target="1.5" />
+      <module name="maven01" target="1.5" />
+      <module name="maven02" target="1.7" />
+      <module name="parent" target="1.5" />
+      <module name="servlet" target="1.7" />
+      <module name="spring-boot-01-helloworld" target="1.6" />
+      <module name="spring-boot-01-helloworld-quick" target="1.8" />
+      <module name="spring-boot-web-crud" target="1.8" />
+      <module name="spring-mvc" target="1.7" />
+      <module name="spring-redis" target="1.7" />
+      <module name="spring-shiro" target="1.7" />
+      <module name="SpringBoot_Demo1" target="1.8" />
+      <module name="SpringBoot_Demo2" target="1.5" />
+      <module name="SpringBoot_Demo3" target="1.8" />
+      <module name="ums-action" target="1.7" />
+      <module name="ums-dao" target="1.5" />
+      <module name="ums-parent" target="1.5" />
+      <module name="ums-service" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringBoot_Demo1" options="-parameters" />
+      <module name="SpringBoot_Demo2" options="" />
+      <module name="SpringBoot_Demo3" options="-parameters" />
+      <module name="spring-boot-01-helloworld-quick" options="-parameters" />
+      <module name="spring-boot-web-crud" options="-parameters" />
+    </option>
+  </component>
+</project>

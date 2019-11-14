@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+
+
+    <!--配置realm-->
+    <bean id="realm" class="shiro04.">
+        <!--注入datasource-->
+        <property name="dataSource" ref="dataSource"/>
+        <!--注入密码匹配器-->
+        <property name="credentialsMatcher" ref=" "/>
+    </bean>
+
+    <!--配置SecurityManager-->
+    <bean id="securityManager" class="org.apache.shiro.web.mgt.DefaultWebSecurityManager">
+        <property name="realms">
+            <list>
+                <ref bean="realm"/>
+            </list>
+        </property>
+    </bean>
+
+    <!--定义一个名为shiroFilter的bean，用来配置url过滤规则-->
+    <bean id="shiroFilter" class="org.apache.shiro.spring.web.ShiroFilterFactoryBean">
+        <property name="securityManager" ref="securityManager"/>
+    </bean>
+</beans>

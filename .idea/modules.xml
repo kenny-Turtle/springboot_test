@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-mvc/spring-mvc.iml" filepath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-mvc/spring-redis/spring-redis.iml" filepath="$PROJECT_DIR$/spring-mvc/spring-redis/spring-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-shiro/spring-shiro.iml" filepath="$PROJECT_DIR$/spring-shiro/spring-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_for_git/test_for_git.iml" filepath="$PROJECT_DIR$/test_for_git/test_for_git.iml" />
       <module fileurl="file://$PROJECT_DIR$/ums-parent/ums-action/ums-action.iml" filepath="$PROJECT_DIR$/ums-parent/ums-action/ums-action.iml" />
       <module fileurl="file://$PROJECT_DIR$/ums-parent/ums-dao/ums-dao.iml" filepath="$PROJECT_DIR$/ums-parent/ums-dao/ums-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/ums-parent/ums-parent.iml" filepath="$PROJECT_DIR$/ums-parent/ums-parent.iml" />

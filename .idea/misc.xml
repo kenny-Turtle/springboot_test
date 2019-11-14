@@ -6,6 +6,7 @@
     <file type="web" url="file://$PROJECT_DIR$/spring-mvc" />
     <file type="web" url="file://$PROJECT_DIR$/spring-shiro" />
     <file type="web" url="file://$PROJECT_DIR$/SpringBoot_Demo2" />
+    <file type="web" url="file://$PROJECT_DIR$/test_for_git" />
     <file type="web" url="file://$PROJECT_DIR$/ums-parent/ums-action" />
   </component>
   <component name="MavenProjectsManager">
@@ -22,6 +23,7 @@
         <option value="$PROJECT_DIR$/spring-boot-web-crud/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-01-helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-01-helloworld-quick/pom.xml" />
+        <option value="$PROJECT_DIR$/test_for_git/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

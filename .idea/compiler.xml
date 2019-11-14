@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-shiro" />
-        <module name="spring-redis" />
+        <module name="test_for_git" />
         <module name="spring-boot-01-helloworld" />
-        <module name="child03" />
+        <module name="spring-redis" />
         <module name="child02" />
         <module name="child01" />
         <module name="spring-boot-web-crud" />
@@ -19,6 +19,7 @@
         <module name="SpringBoot_Demo2" />
         <module name="SpringBoot_Demo1" />
         <module name="ums-action" />
+        <module name="child03" />
         <module name="servlet" />
         <module name="ums-dao" />
       </profile>
@@ -40,6 +41,7 @@
       <module name="SpringBoot_Demo1" target="1.8" />
       <module name="SpringBoot_Demo2" target="1.5" />
       <module name="SpringBoot_Demo3" target="1.8" />
+      <module name="test_for_git" target="1.5" />
       <module name="ums-action" target="1.7" />
       <module name="ums-dao" target="1.5" />
       <module name="ums-parent" target="1.5" />
